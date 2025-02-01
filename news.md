@@ -2,7 +2,7 @@
 title: Neuigkeiten & Updates
 description: Bleib immer auf dem Laufenden! Hier findest du aktuelle News, wichtige Ankündigungen und spannende Updates zu unseren Projekten und Entwicklungen.
 published: true
-date: 2025-02-01T22:12:24.330Z
+date: 2025-02-01T22:13:14.162Z
 tags: news
 editor: markdown
 dateCreated: 2025-02-01T21:47:20.714Z
