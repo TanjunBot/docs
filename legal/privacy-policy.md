@@ -2,8 +2,8 @@
 title: Datenschutzerklärung
 description: Gültig ab: 26.12.2024
 published: true
-date: 2025-02-01T23:20:44.774Z
-tags: rechtliches, datenschutz
+date: 2025-02-01T23:34:07.193Z
+tags: rechtliches, datenschutz, opt-out
 editor: markdown
 dateCreated: 2025-02-01T23:20:44.773Z
 ---
