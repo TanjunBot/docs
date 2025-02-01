@@ -2,7 +2,7 @@
 title: Startseite
 description: Dies ist die offizielle Dokumentation des Discord Bots Tanjun.
 published: true
-date: 2025-02-01T20:57:16.811Z
+date: 2025-02-01T20:59:15.352Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-01T20:51:24.329Z
@@ -46,8 +46,9 @@ Der Changelog enthält immer die neuesten Änderungen und Updates.
 # Hilf mit beim Aufbau dieser Dokumentation!
 
 > Wir würden uns freuen, wenn du uns beim Aufbau dieser Dokumentation unterstützt!
+{.is-success}
 
-## Hinweise zur Angabe von Commands
+# Hinweise zur Angabe von Commands
 
 Wenn wir Commands angeben, dann sind oft Elemente enthalten, die du durch etwas ersetzen musst. Wir geben diese Fälle wie folgt an:
 
