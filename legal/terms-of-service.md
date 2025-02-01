@@ -2,7 +2,7 @@
 title: Nutzungsbedingungen
 description: Gültig ab: 26.12.2024
 published: true
-date: 2025-02-01T23:20:39.993Z
+date: 2025-02-01T23:32:23.213Z
 tags: rechtliches, nutzungsbedingungen
 editor: markdown
 dateCreated: 2025-02-01T23:20:39.993Z
@@ -31,7 +31,7 @@ Willkommen bei Tanjun ("der Bot"). Durch den Zugriff auf oder die Nutzung von Ta
 
 ## 3. Benutzerdaten
 
-* **Datenerhebung:** Tanjun erhebt und verarbeitet Daten gemäß unserer [Datenschutzerklärung](privacy-policy). Durch die Nutzung von Tanjun stimmen Sie dieser Datenerhebung und -nutzung zu.
+* **Datenerhebung:** Tanjun erhebt und verarbeitet Daten gemäß unserer [Datenschutzerklärung](./privacy-policy). Durch die Nutzung von Tanjun stimmen Sie dieser Datenerhebung und -nutzung zu.
 * **Datenverantwortung:** Sie sind dafür verantwortlich, dass die von Ihnen in Tanjun eingegebenen Daten keine Datenschutzrechte oder Urheberrechte verletzen.
 * **Integrationen von Drittanbietern:** Einige Funktionen können APIs von Drittanbietern (z. B. Twitch und andere) nutzen. Diese Integrationen unterliegen den Bedingungen und Datenschutzrichtlinien der jeweiligen Anbieter.
 
