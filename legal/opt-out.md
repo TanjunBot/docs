@@ -1,0 +1,47 @@
+---
+title: Nachrichtenverfolgung deaktivieren
+description: So kannst du dafür sorgen, dass Tanjun deine Nachrichten nicht verarbeitet oder nachverfolgt.
+published: true
+date: 2025-02-01T23:29:06.306Z
+tags: datenschutz, opt-out
+editor: markdown
+dateCreated: 2025-02-01T23:29:06.306Z
+---
+
+# Nachrichtenverfolgung deaktivieren
+
+Tanjun liest oder verarbeitet **keine** deiner normalen Chatnachrichten. Lediglich Text in Befehlen, Formularen oder Minispielen wird von Tanjun verarbeitet, da dies für die Funktionsweise des Bots notwendig ist.
+
+Für weitere Informationen über den Datenschutz in Tanjun, klicke [hier](https://go.tanjun.bot/privacy).
+
+## Befehl zum Deaktivieren der Nachrichtenverfolgung
+
+Um die Nachrichtenverfolgung von Tanjun zu deaktivieren, kannst du den folgenden Befehl verwenden:
+
+```
+/verschiedenes nachrichtenverfolgung deaktivieren
+```
+
+### Vorteile
+
+Du kannst mit diesem Befehl die Privatsphäre von dir und deinen Nachrichten weiter erhöhen, da Tanjun alle deine Nachrichten [(außer Befehle und Einträge in z.B. Formulare von Tanjun)](#user-content-fn-1)[^1] nicht liest und ignoriert.
+
+### Nachteile
+
+Wenn du die Nachrichtenverfolgung deaktivierst, kannst du z.B. nicht mehr an Minispielen von Tanjun teilnehmen und der Bot wird auf deine normale Chatnachrichten nicht mit Reaktionen reagieren.
+
+Außerdem kannst du durch das Deaktivieren der Nachrichtenverfolgung im Levelsystem keine XP mehr sammeln und du kannst [an manchen Gewinnspielen](#user-content-fn-2)[^2] nicht mehr teilnehmen.
+
+## Befehl zum Reaktivieren der Nachrichtenverfolgung
+
+Falls du die Nachrichtenverfolgung in der Vergangenheit deaktiviert hast und dich dazu entschieden hast, sie wieder zu aktivieren, kannst du dies mit dem folgenden Befehl tun:
+
+```
+/verschiedenes nachrichtenverfolgung aktivieren
+```
+
+Nachdem du den Befehl ausgeführt hast, kannst du wieder an Minispielen teilnehmen und der Bot wird wieder mit Reaktionen auf deine Chatnachrichten reagieren.
+
+[^1]: Diese Interaktionen mit dem Bot sind lediglich diese, die du aktiv und bewusst tätigst.
+
+[^2]: Du kannst an den Gewinnspielen, bei denen eine Voraussetzung das Schreiben einer bestimmten Anzahl an Nachrichten ist, nicht mehr teilnehmen.
