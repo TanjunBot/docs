@@ -2,7 +2,7 @@
 title: Startseite
 description: Dies ist die offizielle Dokumentation des Discord Bots Tanjun.
 published: true
-date: 2025-02-01T20:59:15.352Z
+date: 2025-02-01T21:28:18.324Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-01T20:51:24.329Z
@@ -30,7 +30,7 @@ Schaue hier vorbei:
 # **Tipps & Tricks**
 
 Es gibt einige Tipps & Tricks, die du kennen solltest, wenn du Tanjun verwendest.
-
+d
 Hier findest du die Übersicht:
 
 **<Link zur Allgemeine Tipps Seite einfügen>**
